@@ -1,2 +1,2 @@
-# projeto-Netflix
- Recriando a interface do Netflix
+# Projeto Netflix
+ Recriando a interface do Netflix.
