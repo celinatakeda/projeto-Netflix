@@ -3,7 +3,7 @@
  
  Desenvolvimento do projeto com **HTML5**, **CSS3** e **JavaScript**. 
 
- Nesse projeto, os botões **_ASSISTIR AGORA_** e **_MAIS INFORMAÇÕES_** foram modificados para um estilo arredondados. Utilizei
+ No projeto, os botões **_ASSISTIR AGORA_** e **_MAIS INFORMAÇÕES_** foram modificados para um estilo arredondados. Utilizei
 
  o border-radius com 50px.
 
