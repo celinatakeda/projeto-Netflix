@@ -3,9 +3,7 @@
  
  Desenvolvimento do projeto com **HTML5**, **CSS3** e **JavaScript**. 
 
- No projeto, os botões **_ASSISTIR AGORA_** e **_MAIS INFORMAÇÕES_** foram modificados para um estilo arredondados. Utilizei
-
- o border-radius com 50px.
+ No projeto, utilizei o border-radius com 50px para deixar os botões **_ASSISTIR AGORA_** e **_MAIS INFORMAÇÕES_** arredondados.
 
  Adicionei uma função onclick no botão **_ASSISTIR AGORA_** que abre uma nova aba com o site da Digital Innovation One.
  
