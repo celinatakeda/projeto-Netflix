@@ -1,3 +1,3 @@
 function clicou(){
-    window.open("https://digitalinnovation.one")
+    window.open("https://www.netflix.com/br/")
 }
