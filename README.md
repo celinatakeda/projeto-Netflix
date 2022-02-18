@@ -1,5 +1,5 @@
 # Projeto Netflix
- Recriando a interface do Netflix.
+ Recriando a interface da Netflix.
  
  Desenvolvimento do projeto com **HTML5**, **CSS3** e **JavaScript**. 
 
