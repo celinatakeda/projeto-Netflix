@@ -4,7 +4,7 @@
 
  No projeto, utilizei o border-radius com 50px para deixar os botões **_ASSISTIR AGORA_** e **_MAIS INFORMAÇÕES_** arredondados.
 
- Adicionei a função onclick no botão **_ASSISTIR AGORA_** que abre uma nova aba com o site da Netflix.
+ Adicionei a função clicou() no botão **_ASSISTIR AGORA_** que abre uma nova aba com o site da Netflix.
  
  ![image](https://user-images.githubusercontent.com/82118386/130320278-1a60b5d7-120c-4a91-ac2d-e5f22cfaf270.png)
 =======
