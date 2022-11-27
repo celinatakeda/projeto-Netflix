@@ -10,5 +10,4 @@
   <img src=".github/imgNetflix.png">
 </p> 
  
-=======
  
